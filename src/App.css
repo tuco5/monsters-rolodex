@@ -37,7 +37,7 @@
   }
 }
 
-h1 {
+.app-title {
   font-family: 'Bigelow Rules', cursive;
   font-size: 96px;
   color: #0ccac4;
